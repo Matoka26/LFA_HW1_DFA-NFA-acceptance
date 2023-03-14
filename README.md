@@ -1,4 +1,4 @@
-# DFA-NFA-acceptance
+# DFA/NFA-acceptance
 INPUT STRUCTURE:  
   -nr of states  
   -start state  
