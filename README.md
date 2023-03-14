@@ -8,7 +8,7 @@ INPUT STRUCTURE:
   .
   .
   .
-  -finaleStatei
+  -finaleStatei '\n'
   i1
   j1
   chr1
